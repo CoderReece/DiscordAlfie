@@ -3,6 +3,7 @@ Alife bot suggestions and bug reporting.
 
 
 
+
 If you're reporting a bug please format your issue like so:
 
 Date: (Date and if possible time of the exception that occured.)
@@ -10,6 +11,8 @@ Date: (Date and if possible time of the exception that occured.)
 Area: (What area of the bot does this effect? Does it effect a certain command or all?)
 
 Recreate: (Steps to recreate the problem. Everything you did before it happend)
+
+
 
 
 
